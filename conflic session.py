@@ -1,0 +1,6 @@
+print("hellow, python ")
+print("hellow, python ")
+print("hellow, python ")
+print("hellow, python ")
+print("hellow, python ")
+print("hellow, python ")
